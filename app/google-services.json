@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031369507291",
+    "project_id": "unslpash",
+    "storage_bucket": "unslpash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031369507291:android:50951453501fe952f4a7fe",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031369507291-ehvucr2iitlgk814hrqnf68rmmdftmkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbDQNma9oVVCQvjISYRfHr3_appre5sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031369507291-ehvucr2iitlgk814hrqnf68rmmdftmkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
